@@ -1,0 +1,23 @@
+# Core Data Science
+pandas
+numpy
+scikit-learn
+
+# Embeddings / RAG
+faiss-cpu
+sentence-transformers
+langchain
+
+# Google / Gemini
+google-generativeai
+
+# Web / API layer
+fastapi
+uvicorn
+streamlit
+
+# Utilities
+python-dotenv
+tqdm
+requests
+matplotlib
