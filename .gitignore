@@ -1,0 +1,17 @@
+# Python / notebooks
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Data dumps / large binaries (keep your repo lean)
+04_Project_AI_Food_Service_Explorer/Raw_Data_Scraping/**
+04_Project_AI_Food_Service_Explorer/Cleaned_Data/**
+06_Media/**
+*.zip
+*.tar.gz
+
+# Mac & editor
+.DS_Store
+.env
+.vscode/
+.idea/
