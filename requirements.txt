@@ -21,3 +21,4 @@ python-dotenv
 tqdm
 requests
 matplotlib
+google-cloud-aiplatform
